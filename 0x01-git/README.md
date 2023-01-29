@@ -1,1 +1,1 @@
-“my second commit” cd ..
+“my second commit”
