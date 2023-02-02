@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git pull origin
 
+=======
+mkdir up_to_date
+>>>>>>> origin/update_script
